@@ -1,0 +1,5 @@
+{
+  "name": "Book Cover Designer",
+  "description": "A multi-step application to help users define the specifications for their book cover, including orientation and dimensions.",
+  "requestFramePermissions": []
+}
